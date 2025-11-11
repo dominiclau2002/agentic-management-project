@@ -27,19 +27,18 @@ Produce the Job Description in **three clearly labeled sections**:
 
 #### A. Responsibilities
 Describe the major functions and day-to-day expectations.
-- Cover software development, AI pipeline maintenance, documentation, Agile participation, and enterprise tool usage.  
+- Cover software development, AI pipeline maintenance, documentation, and enterprise tool usage.  
 - Use action verbs (e.g., *Develop, Integrate, Analyze, Maintain, Automate, Document*).  
 - Reflect the workflow of an intern collaborating in a product engineering or AI R&D environment.
 
 #### B. Learning Objectives
 Explain what the intern will **gain or achieve** during the internship.
-- Emphasize exposure to **AI systems**, **LLM integration**, **enterprise DevOps**, and **Agile teamwork**.  
+- Emphasize exposure to **AI systems**, **LLM integration**, **enterprise software**
 - Include 4–6 specific learning goals that align with upskilling in AI engineering and enterprise systems.
 
 #### C. Prerequisites
 List the required and preferred qualifications.
 - Include both **technical** (languages, frameworks, tools) and **soft skills** (collaboration, adaptability, documentation).  
-- Differentiate between “Required” and “Nice-to-Have” skills.
 
 ---
 
